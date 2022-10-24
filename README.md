@@ -31,7 +31,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 - 📫 How to reach me **vasanthsai26@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gMAzXa3WD3z3ix_NJ1dGajSXtKjTS4TdAdxG6doIccc/edit?usp=sharing](https://docs.google.com/document/d/1gMAzXa3WD3z3ix_NJ1dGajSXtKjTS4TdAdxG6doIccc/edit?usp=sharing)
+- 📄 Know about my experiences check out my [resume](https://docs.google.com/document/d/1gMAzXa3WD3z3ix_NJ1dGajSXtKjTS4TdAdxG6doIccc/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
