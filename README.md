@@ -6,7 +6,10 @@
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 </p>
 <p>Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
-</p>
+</p> 
+
+
+<p>Check out my <a href="https://vasanthsai26.github.io/">Protfolio</a></p>
 
 
 
@@ -23,9 +26,9 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://jovian.ai/vasanthsai26](https://jovian.ai/vasanthsai26)
+- 👨‍💻 All of my projects are available at [Jovian](https://jovian.ai/vasanthsai26)
 
-- 📝 I regularly write articles on [https://medium.com/@vasanthsai](https://medium.com/@vasanthsai)
+- 📝 I regularly write articles on [Medium](https://medium.com/@vasanthsai)
 
 - 💬 Ask me about **Data Analysis, ML,Python, Web Scraping**
 
