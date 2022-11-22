@@ -22,7 +22,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
-- 🔭 I’m currently working on [Dog breed Classifiaction](https://github.com/vasanthsai26/dog_breed_classifiaction)
+- 🔭 I’m currently working on [Corporación Favorita Store Sales - Time Series Forecasting](https://github.com/vasanthsai26/Corp-favorita-store-sales-Time-Series-Forecasting)
 
 - 🌱 I’m currently learning **TensorFlow**
 
