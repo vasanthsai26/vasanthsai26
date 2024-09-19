@@ -15,7 +15,7 @@
 
 
 
-- 📄 Know about my experiences check out my [resume](https://docs.google.com/document/d/1grYHAUjM7Ej_YoF04uNv5QM7eJJy6c6BSx_JwLExNyw/edit?usp=sharing)
+- 📄 Know about my experiences check out my [resume](https://drive.google.com/file/d/170s4JDGb0QesMyEcCO-WH6bvcbQEQOzn/view?usp=sharing)
 
 
 
