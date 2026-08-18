@@ -9,7 +9,7 @@ I build production Generative AI systems — agentic architectures on MCP, RAG/G
 - 🧠 Focus areas: Generative AI · LLM Systems · Agentic AI · RAG / GraphRAG · Computer Vision
 - 🌱 Recent work: built Neo4j's own **LLM Graph Builder**, fine-tuned vision models for global consumer brands, cut production latency 73% on an MCP-based platform
 - 💬 Ask me about LangChain, LangGraph, Neo4j, RAG architectures, or production LLM systems
-- 📄 Resume: [Google Drive](https://drive.google.com/file/d/170s4JDGb0QesMyEcCO-WH6bvcbQEQOzn/view?usp=sharing) <!-- update this if the file hasn't been refreshed recently -->
+- 📄 Resume: [Google Drive](https://drive.google.com/file/d/1ZAlL_VH2otxq3AWrZWv5TdZnw6WUgHfJ/view?usp=sharing)
 - 📫 Reach me: vasanthsai26@gmail.com · [LinkedIn](https://www.linkedin.com/in/vasanthsai/)
 
 <br>
